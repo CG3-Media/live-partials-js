@@ -97,4 +97,4 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 });
 
-export default LivePartial;
+
